@@ -1,0 +1,6 @@
+[submodule "GymSetTracker"]
+	path = GymSetTracker
+	url = https://github.com/pstarowicz/GymSetTracker.git
+[submodule "GymGuardUI"]
+	path = GymGuardUI
+	url = https://github.com/pstarowicz/GymGuardUI.git
